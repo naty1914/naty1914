@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/4l9wXPL.jpg" alt="Software Developer banner" />
+<img src="https://i.imgur.com/5PEp17U.jpg" alt="Software Developer banner" />
 <h1 align="center">Hi 👋, I'm Natnael Seifu</h1>
 <h3 align="center">Software Developer passionate about backend development and learning new technologies.</h3>
 
