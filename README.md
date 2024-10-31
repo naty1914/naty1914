@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naty1914&label=Profile%20views&color=0e75b6&style=flat" alt="naty1914" /> </p>
 
-- 🔭 I’m currently working on [Quiz App](https://github.com/naty1914/quiz-app)
+
 
 - 🌱 I’m currently learning **Advanced Node.js and enhancing my Docker skills.**
 
