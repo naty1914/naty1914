@@ -6,7 +6,6 @@
 
 
 
-- 🌱 I’m currently learning **Advanced Node.js and enhancing my Docker skills.**
 
 - 💬 Ask me about **Flask, Backend Development, Python, REST API integration**
 
