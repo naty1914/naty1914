@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **Flask, Backend Development, Python, REST API integration**
+- 💬 Ask me about **Flask, Backend Development, Python,Laravel, REST API integration**
 
 - 📫 How to reach me **natiseifu02@gmail.com**
 
