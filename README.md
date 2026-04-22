@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Natnael Seifu</h1>
 <h3 align="center">Software Developer passionate about backend development and learning new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naty1914&label=Profile%20views&color=0e75b6&style=flat" alt="naty1914" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=naty1914&label=Profile%20views&color=0e75b6&style=flat" alt="naty1914" /> </p> -->
 
 
 
 
-- 💬 Ask me about **Flask, Backend Development, Python,Laravel, REST API integration**
+- 💬 Ask me about **Laravel,Django,flask Backend Development, Python, REST API integration**
 
 - 📫 How to reach me **natiseifu02@gmail.com**
 
